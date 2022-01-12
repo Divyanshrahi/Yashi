@@ -1,0 +1,18 @@
+body{
+   margin:0;
+   padding-top:800;
+    text-align: center;
+}
+.Gulliver{
+    width:500px;
+    height:500px;
+    text-align: center;
+}
+.menu{
+   list-style: none;
+    font-family: fantasy;
+    position:fixed
+    margin-top:10px;
+    right: 30 px;;
+    z-index: 10;
+}
